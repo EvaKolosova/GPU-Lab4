@@ -1,0 +1,17 @@
+﻿  main.cpp
+d:\рабочий стол\gpu\project3\project1\taxpy.h(171): warning C4267: аргумент: преобразование из "size_t" в "int"; возможна потеря данных
+d:\рабочий стол\gpu\project3\project1\taxpy.h(296): warning C4267: аргумент: преобразование из "size_t" в "int"; возможна потеря данных
+d:\рабочий стол\gpu\project3\project1\taxpy.h(421): warning C4267: аргумент: преобразование из "size_t" в "int"; возможна потеря данных
+d:\рабочий стол\gpu\project3\project1\taxpy.h(546): warning C4267: аргумент: преобразование из "size_t" в "int"; возможна потеря данных
+d:\рабочий стол\gpu\project3\project1\main.cpp(62): warning C4244: инициализация: преобразование "double" в "float", возможна потеря данных
+d:\рабочий стол\gpu\project3\project1\main.cpp(64): warning C4244: =: преобразование "double" в "_Ty", возможна потеря данных
+          with
+          [
+              _Ty=float
+          ]
+d:\рабочий стол\gpu\project3\project1\main.cpp(65): warning C4244: =: преобразование "double" в "_Ty", возможна потеря данных
+          with
+          [
+              _Ty=float
+          ]
+  Project1.vcxproj -> D:\Рабочий стол\GPU\Project3\x64\Debug\Project3.exe
